@@ -1,0 +1,15 @@
+{
+  "tree_max_depth": 8,
+  "tree_min_child_weight": 2.0,
+  "tree_learning_rate": 0.05,
+  "tree_subsample": 0.85,
+  "tree_colsample": 0.85,
+  "tree_l2": 5.0,
+  "tree_l1": 0.0,
+  "tree_rounds": 500,
+  "tree_early_stopping_rounds": 40,
+  "tree_max_scale_pos_weight": 20.0,
+  "n_jobs": 4,
+  "framework_early_stopping_rounds": 60,
+  "min_calibration_positives": 100
+}
